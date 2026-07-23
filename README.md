@@ -1,0 +1,2 @@
+Since Proton AG has refused toadd light / dark theme selection it was decided by some to add it. For many it might be a fad (Proton AG clearly considers it a fad), for some others is a question of being able to distinguish the interface.
+While every effort was employed to respect the Python best practice coding, given the sensibility of the app, bugs might still be present. Use the app on your own accord.
